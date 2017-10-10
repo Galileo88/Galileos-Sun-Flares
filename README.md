@@ -1,5 +1,5 @@
-# Quality over quantity.
-My last update for this was rushed and awful, to be honest. I decided to slow down my production and focus on the quality of these new sun flares.
+# Galileo's Sun Flares 
+For KSP v1.3.1
 
 **This version includes:**
 * 3 brand new sun flares, with red, white, and blue variations. 
